@@ -1,5 +1,3 @@
-Sure, here's a sample README.md file for your SortedLinkedList implementation:
-
 ```markdown
 # SortedLinkedList Implementation
 
