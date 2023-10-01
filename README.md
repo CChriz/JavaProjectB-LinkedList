@@ -1,4 +1,4 @@
-```markdown
+
 # SortedLinkedList Implementation
 
 This Java implementation provides a SortedLinkedList class that represents a linked list of strings, sorted in either ascending or descending alphabetical order. It uses a doubly-linked list data structure to efficiently manage elements and supports various operations for adding, removing, and printing elements.
@@ -92,7 +92,3 @@ cherry
 banana
 apple
 ```
-
-For more examples and usage details, refer to the [How to Use](#how-to-use) section.
-
-This README provides an overview of the SortedLinkedList class, how to use it, examples, and information on contributing and licensing. You should replace the placeholders with actual usage instructions, examples, and license details specific to your project.
